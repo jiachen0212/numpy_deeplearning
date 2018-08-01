@@ -1,3 +1,4 @@
+# https://blog.csdn.net/xo19882011/article/details/79306641  the csdn url ...
 #coding=utf-8
 # https://www.tensorflow.org/api_docs/python/tf/nn/conv2d
 import tensorflow as tf 
